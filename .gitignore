@@ -27,3 +27,4 @@ coverage/
 # Miscellaneous
 .DS_Store
 *.swp
+.idea/
